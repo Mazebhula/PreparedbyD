@@ -1,0 +1,132 @@
+Junior Backend Software Developer (MEAN Stack)
+
+Company Overview
+
+At Softbox, we are a dynamic tech company focused on delivering innovative web solutions. Our team leverages the power of the MEAN stack to build scalable, high-performance applications. We’re looking for a passionate Junior Backend Software Developer to join our growing team and contribute to exciting projects.
+
+Job Description
+
+As a Junior Backend Software Developer, you will work closely with our development team to design, develop, and maintain the backend infrastructure of our web applications. You’ll focus on building robust APIs and ensuring seamless integration with MongoDB and frontend components.
+
+Responsibilities:
+
+Develop and maintain server-side logic using Node.js and Express.js.
+
+
+
+Design and implement RESTful APIs to support frontend functionality.
+
+
+
+Manage and optimize MongoDB databases, including schema design and query optimization.
+
+
+
+Collaborate with frontend developers to integrate Angular-based user interfaces.
+
+
+
+Write clean, maintainable, and well-documented code.
+
+
+
+Participate in code reviews and contribute to team best practices.
+
+
+
+Troubleshoot and debug backend issues to ensure optimal performance.
+
+
+
+Stay updated on MEAN stack trends and technologies.
+
+Requirements:
+
+
+
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+
+
+
+1-2 years of experience with backend development, preferably using the MEAN stack.
+
+
+
+Proficiency in Node.js and Express.js for building scalable APIs.
+
+
+
+Experience with MongoDB, including schema design and querying.
+
+
+
+Basic understanding of Angular and frontend integration.
+
+
+
+Familiarity with RESTful API design and implementation.
+
+
+
+Knowledge of version control systems (e.g., Git).
+
+
+
+Strong problem-solving skills and attention to detail.
+
+
+
+Excellent communication and teamwork abilities.
+
+Nice-to-Haves:
+
+
+
+
+
+Experience with TypeScript.
+
+
+
+Familiarity with cloud platforms (e.g., AWS, Azure, or Google Cloud).
+
+
+
+Knowledge of testing frameworks (e.g., Mocha, Jest).
+
+
+
+Understanding of Agile/Scrum methodologies.
+
+What We Offer:
+
+
+
+
+
+Competitive salary and benefits package.
+
+
+
+Opportunity to work with cutting-edge technologies.
+
+
+
+Collaborative and inclusive work environment.
+
+Mentorship and professional development opportunities.
+
+
+Flexible working hours and remote work options.
+
+How to Apply:
+
+If you’re excited about building innovative solutions with the MEAN stack, we’d love to hear from you! Please submit your resume, a brief cover letter, and any relevant portfolio or GitHub links to careers@yourcompany.com.
+
+Application Deadline: [Insert Deadline, e.g., June 15, 2025]
+
+[Your Company Name] is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+</xai
