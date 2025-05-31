@@ -1,13 +1,18 @@
 package org.denzhe;
 
+import java.util.Arrays;
+
 public class GenerateQuestions {
+    String questions;
     public GenerateQuestions(String jobAsString){
         StringBuilder query = new StringBuilder();
-        query.append("give me 10 questions for this post,").append(jobAsString)
-                .append(" i am creating a website, write the questions inside a list and separate them with commas");
+        query.append("give me 10 possible interview questions for this post,").append(jobAsString);
 
-        String questions = new Caller(query.toString()).getGeneratedText().split("</think>")[1].strip();
-        System.out.println(questions);
 
+        questions = new Caller(query.toString()).getGeneratedText().strip();
+
+    }
+    public String getQuestions(){
+        return questions;
     }
 }
